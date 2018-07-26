@@ -1,6 +1,6 @@
 header li {
-  font-size: 2vh;
-  width: 11vw;
+  font-size: 2.3vh;
+  width: 15vw;
 }
 
 .jumbotron {
@@ -28,7 +28,7 @@ header li {
 
 .about-container {
   background-color: white;
-  height: 175vh;
+  height: 130vh;
   align-items: center;
   margin: 0 0;
 }
@@ -71,9 +71,9 @@ header li {
 
 .project-side h1 {
   margin: 1vh auto;
-  font-size: 4vh;
+  font-size: 3.5vh;
 }
 
 .project-side p {
-  font-size: 2.5vh;
+  font-size: 2vh;
 }

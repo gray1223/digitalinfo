@@ -1,0 +1,87 @@
+.jumbotron {
+  width: 70vw;
+}
+
+.about-section {
+  height: 50vh;
+}
+
+header li {
+  font-size: 2vh;
+  width: 11vw;
+}
+
+.jumbotron {
+  width: 80vw;
+  padding: 4vh;
+}
+
+.jumbotron h1 {
+  font-size: 5vh;
+  line-height: 1.2;
+}
+
+.jumbotron h2 {
+  font-size: 3vh;
+  max-width: 80vw;
+  line-height: 1.15;
+}
+
+.jumbotron h3 {
+  font-size: 2.3vh;
+  line-height: 1.2;
+}
+
+
+
+.about-container {
+  background-color: white;
+  height: 110vh;
+  align-items: center;
+  margin: 0 0;
+}
+
+.title-container {
+  color: black;
+}
+
+.about-sections {
+  flex-direction: column;
+  width: 90vw;
+  justify-content: center;
+}
+
+.about-section {
+  width: 75vw;
+  margin: 0 auto;
+  height: 50vh;
+}
+
+
+
+.project {
+  flex-direction: column;
+  width: 80vw;
+  align-items: center;
+}
+
+.project-side {
+  width: 80vw;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.project img {
+  width: 80vw;
+}
+
+.project-side h1 {
+  margin: 1vh auto;
+  font-size: 4vh;
+}
+
+.project-side p {
+  font-size: 2.5vh;
+}
